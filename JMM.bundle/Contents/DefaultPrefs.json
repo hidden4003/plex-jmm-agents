@@ -1,0 +1,8 @@
+[
+  {
+    "id"      : "jmmServer",
+    "label"   : "JMM Server address",
+    "type"    : "text",
+    "default" : "127.0.0.1:8111"
+  }
+]
